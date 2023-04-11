@@ -19,11 +19,10 @@
   },
   "homepage": "https://github.com/abel-tefera/leaderboard#readme",
   "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.21.2",
-    "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
     "eslint": "^8.38.0",
     "eslint-config-google": "^0.14.0",
+    "eslint-plugin-import": "^2.27.5",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.2",
     "stylelint": "^15.4.0",
@@ -31,5 +30,10 @@
     "webpack": "^5.78.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.13.2"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.21.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.21.2",
+    "babel-eslint": "^10.1.0"
   }
 }
