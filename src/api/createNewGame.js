@@ -18,6 +18,6 @@ export const createNewGame = async () => {
     console.error(error);
   }
 
-  // Game id: qUEIX71lpdhq427AfSv3
-  // cxTYIcB0AyRhOLO5ia3C
+  // Game id: 
+  // Testing cxTYIcB0AyRhOLO5ia3C
 };
