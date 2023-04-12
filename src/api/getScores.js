@@ -1,4 +1,4 @@
-import { BASE_URL, GAME_ID } from "./constants";
+import { BASE_URL, GAME_ID } from "./constants.js";
 
 export const getScores = async () => {
   try {
