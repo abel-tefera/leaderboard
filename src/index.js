@@ -13,7 +13,7 @@ const createUI = async (re) => {
   const scoresDiv = document.createElement("div");
   scoresDiv.classList.add("scores-div");
   const scoresText = scores
-    .map(({ user, score }) => `<span>${user}: ${score}</span>`)
+    .map(({ user, score }, i) => `<span class="${i % 2 !== 0 ? 'grey-bg' : ''}"">${user}: ${score}</span>`)
     .join("\n");
   scoresDiv.innerHTML = scoresText;
   recentScores.appendChild(scoresDiv);
