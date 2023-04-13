@@ -83,6 +83,12 @@ body {
   border: 3px solid black;
 }
 
+.user-input,
+.score-input,
+.btn {
+  margin-top: 0;
+}
+
 @media only screen and (width >= 576px) {
   .score-form {
     width: 100%;
