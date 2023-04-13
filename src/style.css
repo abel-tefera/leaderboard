@@ -104,4 +104,20 @@ body {
     padding-left: 6rem;
     padding-right: 6rem;
   }
+
+  .content {
+    width: 90%;
+  }
+}
+
+@media only screen and (width >= 992px) {
+  .content {
+    width: 80%;
+  }
+}
+
+@media only screen and (width >= 1200px) {
+  .content {
+    width: 65%;
+  }
 }
