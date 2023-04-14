@@ -83,7 +83,7 @@
 
 > Here's the link to my project: 
 
- - [Coming Soon]()
+ - [Leaderboard](https://abel-tefera.github.io/leaderboard/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
