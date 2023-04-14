@@ -30,7 +30,7 @@
 - [📝 License](#license)
 
 
-# 📖 JMF Chess Tournamen <a name="about-project"></a>
+# 📖 Leaderboard API <a name="about-project"></a>
 
 > A project for consuming the Leaderboard API.
 
